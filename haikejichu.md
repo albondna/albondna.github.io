@@ -1,9 +1,11 @@
 ---
 layout: page
-permalink: /haiyang/index.html
-title: haiyang
+permalink: /teams/index.html
+title: Teams
 ---
 
+
+---
 
 
 ## 应该是LS要的那一堆海洋科学的傻逼玩意

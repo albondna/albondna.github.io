@@ -44,10 +44,10 @@ links:
     url: /awards/
   - title: 兴趣
     url: /hobbies/
-  - title: 未来计划
+  - title: awards
     url: /awards/
-  - title: 海洋科学基础
-    url: /haijejichu/
+  - title: teams
+    url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

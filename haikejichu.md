@@ -4,9 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
 
-## 也许等以后有什么奖可以写上去，但是很遗憾，我没有
+
+## 应该是LS要的那一堆海洋科学的傻逼玩意
 
 - 
   <br>
@@ -21,21 +21,4 @@ title: Publications
 
 <br>
 
----
 
-##
-- 
-
-- 
-  <br>
-
----
-
-## 
-
-- 
-
-- 
-
--
-  <br>

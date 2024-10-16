@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# About Me
+# 一些自我介绍
 
-Here is **SOME（albondna）的**.
+Here is **SOME（albondna）的 COLLECTIONS**.
 
 -关于我的名字SOME（索姆）--来自于高中英语课堂，我们敬爱的英语老师正好讲解了SOME这个单词的含义--身份不知的某人，当时整节课都在睡觉，只听到了这个词，然后不知道为什么只记住了这个单词，正好也觉得这个单词有意思，于是便当做了自己的网名。
 

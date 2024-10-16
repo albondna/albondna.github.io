@@ -19,7 +19,7 @@ Here is **SOME（albondna）的 COLLECTIONS**.
 
 ---
 
-## 制作这个的目的——
+## 制作这个的目的
 
 
 -最开始的目的是完成自己海洋科学基础这门课的作业，但是后面发现这个地方也可以用来放一些学习资料，受到一些前辈的影响（例如[SAVIA的外装代脑](https://savia7582.github.io/Exterior/)，[咸鱼暄的代码空间](https://xuan-insr.github.io/)，想要找个地方存放一下自己本科时候整理的笔记，和一些收集的网站之类的，也想在这里分享一些自己的生活趣事。于是花了几天学习了一下GIT，在朋友[云云](https://github.com/aminoacid20)的帮助下，完成了这些。

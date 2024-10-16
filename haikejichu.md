@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /haiyang/index.html
-title: Publications
+title: haiyang
 ---
 
 

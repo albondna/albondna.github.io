@@ -7,7 +7,7 @@ url: albondna.github.io
 # Owner/author information
 owner:
   name: SOME
-  #avatar: albondna.jpg 
+  avatar: albondna.jpg 
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 3230100076@zju.edu.cn
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -36,17 +36,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: 自我介绍
+  - title: About Me
     url: /
-  - title: 以后想想写什么
+  - title: Publications
     url: /publications/
-  - title: 大学资料整理
+  - title: Awards
     url: /awards/
-  - title: 兴趣
+  - title: Hobbies
     url: /hobbies/
-  - title: awards
-    url: /awards/
-  - title: teams
+  - title: Blogs
+    url: /blogs/
+  - title: Teams
     url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

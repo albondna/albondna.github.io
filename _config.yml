@@ -7,7 +7,7 @@ url: albondna.github.io
 # Owner/author information
 owner:
   name: SOME
-  avatar: albondna.jpg 
+  #avatar: albondna.jpg 
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 3230100076@zju.edu.cn
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -47,7 +47,7 @@ links:
   - title: 未来计划
     url: /awards/
   - title: 海洋科学基础
-    url: /teams/
+    url: /haijejichu/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

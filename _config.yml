@@ -43,6 +43,8 @@ links:
     url: /hobbies/
   - title: 经历
     url: /blogs/
+  - title: 课程资料分析
+    url: /courses/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

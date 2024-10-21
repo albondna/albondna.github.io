@@ -18,7 +18,9 @@ title: Teams
 
 
 - 一些概念
-- 
+### 熊学军
+
+- [NS方程的推导]((http://albondna.github.io/images/haiyangziliao/Chapter 3-02.pdf)
 
 ----------
 ----------
@@ -26,6 +28,8 @@ title: Teams
 ## 相关的网站，工具
 
 ----------
+
+[部署参考](http://albondna.github.io/images/haiyangziliao/Chapter 3-02.pdf)
 
 ### AI相关
 - 本地部署大语言模型，并构建自身的知识库（）

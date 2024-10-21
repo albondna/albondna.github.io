@@ -20,7 +20,7 @@ title: Teams
 - 一些概念
 ### 熊学军
 
-- [NS方程的推导]((http://albondna.github.io/images/haiyangziliao/Chapter 3-02.pdf)
+- [NS方程的推导]((http://albondna.github.io/images/haiyangziliao/NS.pdf)
 
 ----------
 ----------
@@ -29,10 +29,10 @@ title: Teams
 
 ----------
 
-[部署参考](http://albondna.github.io/images/haiyangziliao/Chapter 3-02.pdf)
+
 
 ### AI相关
-- 本地部署大语言模型，并构建自身的知识库（）
+- 本地部署大语言模型，并构建自身的知识库[部署参考](http://albondna.github.io/images/haiyangziliao/bushu.pdf)
 
 - AI助手例如 [kimi](https://kimi.moonshot.cn/)  [文心一言](https://yiyan.baidu.com/welcome)  [密塔](https://metaso.cn/)  
 
@@ -40,11 +40,12 @@ title: Teams
 ### 物理海洋相关网站
 - 数据获取的网站，例如[APDR](https://apdrc.soest.hawaii.edu/),[erathnullshcool](https://www.rawgraphs.io/)  
 
-- 数据处理网站[RAWG](https://markdown.cn/)
-
 - 电子书下载[鸠摩](https://www.tboxn.com/)  [libgen](https://libgen.mx/)  
 
-
+### 一些工具
+- 数据处理网站[RAWG](https://www.rawgraphs.io/)
+- [matlab](https://matlab.mathworks.com/)
+- [平替](https://octave-online.net/)
 
 -------
 ### 个人网站以及链接的搭建

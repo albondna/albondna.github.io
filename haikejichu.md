@@ -14,10 +14,7 @@ title: Teams
 -------
 ### 李爽
 
-- 图片的解释
-
-
-- 一些概念
+- 物理海洋故事
 
 
 ### 熊学军
@@ -42,7 +39,7 @@ title: Teams
 
 -------
 ### 物理海洋相关网站
-- 数据获取的网站，例如[<mark>APDR</mark>](https://apdrc.soest.hawaii.edu/),[<mark>erathnullshcool</mark>](https://www.rawgraphs.io/)  
+- 数据获取的网站，例如[<mark>APDR</mark>](https://apdrc.soest.hawaii.edu/),[<mark>erathnullshcool</mark>](https://earth.nullschool.net/)
 
 - 电子书下载[<mark>鸠摩</mark>](https://www.tboxn.com/)  [<mark>libgen</mark>](https://libgen.mx/)  
 
@@ -55,24 +52,18 @@ title: Teams
 ### 个人网站以及链接的搭建
 
 #### GITHUB
-:bulb: 挂梯子
+
 - 参考[<mark>蔡汉霖的个人博客</mark>](https://github.com/GuangLun2000)
 - 学习[<mark>markdown文档的编写</mark>](https://markdown.cn/)
 
 #### framer
-:bulb: 挂梯子
-- 参考[<mark>B站视频好奇代码的三木<mark>](https://www.bilibili.com/video/BV15D4y1t7ja/?share_source=copy_web&vd_source=6bf8eb1c6205929a58c7bccc8626b8a6)
 
---------
--------
-## 上课问题整理
-- 
-
+- 参考[<mark>B站视频好奇代码的三木</mark>](https://www.bilibili.com/video/BV15D4y1t7ja/?share_source=copy_web&vd_source=6bf8eb1c6205929a58c7bccc8626b8a6)
 
 -------
 -------
 
-## 出门票
+## 小组出门票
 ### 姚雨柔
 <img src="/images/haiyangziliao/chumenpiao/yyr1.jpg">
 <img src="/images/haiyangziliao/chumenpiao/yyr2.jpg">
@@ -85,13 +76,18 @@ title: Teams
 <img src="/images/haiyangziliao/chumenpiao/xlw2.jpg">
 <img src="/images/haiyangziliao/chumenpiao/xlw3.jpg">
 
+### 郑俞幸
+
+
+
+
+
+### 叶易
 
 
 
 
 
 
-
-<br>
 
 

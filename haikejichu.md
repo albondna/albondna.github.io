@@ -72,14 +72,14 @@ title: Teams
 -------
 
 ## 出门票
-- 姚雨柔
+### 姚雨柔
 <img src="/images/haiyangziliao/chumenpiao/yyr1.jpg">
 <img src="/images/haiyangziliao/chumenpiao/yyr2.jpg">
 <img src="/images/haiyangziliao/chumenpiao/yyr3.jpg">
 <img src="/images/haiyangziliao/chumenpiao/yyr4.jpg">
 <img src="/images/haiyangziliao/chumenpiao/yyr5.jpg">
 
-- 徐乐雯
+### 徐乐雯
 <img src="/images/haiyangziliao/chumenpiao/xlw1.jpg">
 <img src="/images/haiyangziliao/chumenpiao/xlw2.jpg">
 <img src="/images/haiyangziliao/chumenpiao/xlw3.jpg">

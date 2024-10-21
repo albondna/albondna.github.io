@@ -20,7 +20,7 @@ title: Teams
 - 一些概念
 ### 熊学军
 
-- [NS方程的推导]((http://albondna.github.io/images/haiyangziliao/NS.pdf)
+- [NS方程的推导](http://albondna.github.io/images/haiyangziliao/NS.pdf)
 
 ----------
 ----------

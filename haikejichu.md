@@ -22,7 +22,8 @@ title: Teams
 
 ### 熊学军
 
-- <mark>[NS方程的推导](http://albondna.github.io/images/haiyangziliao/NS.pdf)</mark>
+- [<mark>NS方程的推导</mark>](http://albondna.github.io/images/haiyangziliao/NS.pdf)
+
 
 ----------
 ----------
@@ -34,33 +35,33 @@ title: Teams
 
 
 ### AI相关
-- 本地部署大语言模型，并构建自身的知识库<mark>[部署参考](http://albondna.github.io/images/haiyangziliao/bushu.pdf)</mark>
+- 本地部署大语言模型，并构建自身的知识库[<mark>部署参考</mark>](http://albondna.github.io/images/haiyangziliao/bushu.pdf)
 
 
-- AI助手例如<mark> [kimi](https://kimi.moonshot.cn/)  [文心一言](https://yiyan.baidu.com/welcome)  [密塔](https://metaso.cn/)</mark>
+- AI助手例如 [<mark>kimi</mark>](https://kimi.moonshot.cn/)  [<mark>文心一言</mark>](https://yiyan.baidu.com/welcome)  [<mark>密塔</mark>](https://metaso.cn/)
 
 -------
 ### 物理海洋相关网站
-- 数据获取的网站，例如<mark>[APDR](https://apdrc.soest.hawaii.edu/),[erathnullshcool](https://www.rawgraphs.io/)  </mark>
+- 数据获取的网站，例如[<mark>APDR</mark>](https://apdrc.soest.hawaii.edu/),[<mark>erathnullshcool</mark>](https://www.rawgraphs.io/)  
 
-- 电子书下载<mark>[鸠摩](https://www.tboxn.com/)  [libgen](https://libgen.mx/)  </mark>
+- 电子书下载[<mark>鸠摩</mark>](https://www.tboxn.com/)  [<mark>libgen</mark>](https://libgen.mx/)  
 
 ### 一些工具
-- 数据处理网站<mark>[RAWG](https://www.rawgraphs.io/)</mark>
-- <mark>[matlab](https://matlab.mathworks.com/)</mark>
-- <mark>[平替](https://octave-online.net/)</mark>
+- 数据处理网站[<mark>RAWG</mark>](https://www.rawgraphs.io/)
+- [<mark>matlab</mark>](https://matlab.mathworks.com/)
+- [<mark>平替</mark>](https://octave-online.net/)
 
 -------
 ### 个人网站以及链接的搭建
 
 #### GITHUB
 :bulb: 挂梯子
-- 参考<mark>[蔡汉霖的个人博客](https://github.com/GuangLun2000)</mark>
-- 学习<mark>[markdown文档的编写](https://markdown.cn/)</mark>
+- 参考[<mark>蔡汉霖的个人博客</mark>](https://github.com/GuangLun2000)
+- 学习[<mark>markdown文档的编写</mark>](https://markdown.cn/)
 
 #### framer
 :bulb: 挂梯子
-- 参考<mark>[B站视频好奇代码的三木](https://www.bilibili.com/video/BV15D4y1t7ja/?share_source=copy_web&vd_source=6bf8eb1c6205929a58c7bccc8626b8a6)</mark>
+- 参考[<mark>B站视频好奇代码的三木<mark>](https://www.bilibili.com/video/BV15D4y1t7ja/?share_source=copy_web&vd_source=6bf8eb1c6205929a58c7bccc8626b8a6)
 
 --------
 -------

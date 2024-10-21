@@ -45,8 +45,6 @@ links:
     url: /blogs/
   - title: 课程资料分享
     url: /awards/
-      - title: 微积分乙
-      url: /weijifen/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/index.html
+permalink: /weijifen/index.html
 title: Blogs
 ---
 # 微积分乙资料

@@ -14,7 +14,7 @@ title: Teams
 -------
 ### 李爽
 
-- [<mark>物理海洋故事</mark>](https://albondna.io/images/haiyangziliao/关于泰勒柱的故事.pdf)
+- [<mark>物理海洋故事</mark>](https://albondna.github.io/images/haiyangziliao/关于泰勒柱的故事.pdf)
 
 
 ### 熊学军

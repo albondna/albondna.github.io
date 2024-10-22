@@ -49,7 +49,7 @@ title: Teams
 - [<mark>平替</mark>](https://octave-online.net/)
 
 -------
-### 个人网站以及链接的搭建
+### 个人网站以及链接的搭建指南
 
 #### GITHUB
 

@@ -47,6 +47,7 @@ title: Teams
 - 数据处理网站[<mark>RAWG</mark>](https://www.rawgraphs.io/)
 - [<mark>matlab</mark>](https://matlab.mathworks.com/)
 - [<mark>平替</mark>](https://octave-online.net/)
+- [<mark>计算工具](https://www.wolframalpha.com)
 
 -------
 ### 个人网站以及链接的搭建指南

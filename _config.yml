@@ -37,8 +37,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: 自我介绍
     url: /
-  - title: 海洋
-    url: /teams/
+ # - title: 海洋
+  #  url: /teams/
   - title: 个人兴趣
     url: /hobbies/
   - title: 经历

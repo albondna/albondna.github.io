@@ -13,6 +13,7 @@ layout: page
 <body>
     <section style="background-color:F8F8FF">
         <h2>欢迎来参观 SOME 的个人网站</h2>
+        <br>
     </section>
         
 
@@ -32,7 +33,7 @@ layout: page
     <section>   
         <h3>*目前内容</h3>
         <p>一点和自己的兴趣爱好相关的东西，收集的游戏攻略，一些感触比较大的视频。   </p>
-        <br>
+        
         <p>一些与物理海洋，数据处理相关的网站，记录在海洋科学基础这门课上的收获等，也会分享一些我总结的关于llama 与 MaxKB 部署相关的文档，以及此网站的搭建教程</p>
     </section>
 

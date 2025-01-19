@@ -14,7 +14,7 @@ title: Awards
  
 <table width="700" border="0">
 <tr>
-<td colspan="2" style="background-color:#F8F8FF>
+<td colspan="2" style="background-color:#F8F8FF;">
 <h1>资料收集</h1>
 </td>
 </tr>

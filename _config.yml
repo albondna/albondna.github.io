@@ -1,5 +1,5 @@
 title: SOME
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# tagline:
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://albondna.github.io
@@ -9,20 +9,18 @@ owner:
   name: SOME
   avatar: some.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: 3230100076@zju.edu.cn
+  
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: 刹那我老婆
   github: albondna
-  #linkedin: hanlincai
-  #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  #linkedin:
+  #scholar: 
   bilibili: 1605929556
-  qq: 2652786895@qq.com
-  LOFTER: 不知道改改什么名字
-  zhihu: https://www.zhihu.com/people/92-77-58-3-64
+  zhihu:
   # lastfm:
   # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
+  # For Google Authorship 
   # google_plus:
 
 # Analytics and webmaster tools stuff goes here
@@ -35,16 +33,16 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: 自我介绍
+  - title: 主页
     url: /
  # - title: 海洋
   #  url: /teams/
-  - title: 个人兴趣
-    url: /hobbies/
-  - title: 经历
-    url: /blogs/
   - title: 课程资料分享
     url: /awards/
+  - title: 个人兴趣
+    url: /hobbies/
+  - title: 杂项
+    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
